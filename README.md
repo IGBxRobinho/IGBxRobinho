@@ -28,7 +28,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">View my stats on Github 
+####<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">View my stats on Github 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IGBxRobinho&show_icons=true)  
 
