@@ -18,7 +18,7 @@
   - **Framework:** `Express.js`
   - **Databases:** `MySQL` • `PostgreSQL` • `SQL Server`
   - **System Architecture:** `Monolithic` • `Modular`
-  - **Protocol:** `REST` • `Web Socket`
+  - **Protocol:** `REST` 
 
 - 🖥 **Frontend:**
 
