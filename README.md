@@ -45,7 +45,9 @@
 <a href="http://www.github.com/IGBxRobinho"><img src="https://github-readme-stats.vercel.app/api?username=IGBxRobinho&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="IGBxRobinho's GitHub stats" /></a>
 <a href="http://www.github.com/IGBxRobinho"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IGBxRobinho&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  </p>
- 
+<br/>
+<br/>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
