@@ -1,10 +1,36 @@
-### Hi there, I'm Robson 👋
+### Hi there 👋!
 
+### Who I am?
 
-- 🌱 I’m currently learning 
-- 🔭 I’m currently working on UFFA
-- ⚡ Fun fact: I love play games, watch series / movies
+- I'm a graduate in Information System
+- Working as **Full Stack Developer** at **[Trademaster](https://www.trademaster.com.br/)**
+- Open Source enthusiast.
+- I love play games, watch series / movies
 
+#### What I'm doing?
+- Writing `MongoDb`, `PostgreSQL`, `JavaScript`, `React,js`, `Node.js`, `MySQL`, `SQL Server`.
+
+#### What are my skill sets?
+
+- 🗄️ **Backend:**
+
+  - **Language:**  `JavaScript(Node.js)` • `Typescript(Node.js)`
+  - **Framework:** `Express.js`
+  - **Databases:** `MySQL` • `PostgreSQL` • `SQL Server`
+  - **System Architecture:** `Monolithic` • `Modular`
+  - **Protocol:** `REST` • `Web Socket`
+
+- 🖥 **Frontend:**
+
+  - **Language:** `JavaScript`
+  - **Framework/Library:** `React.js` • `Electron.js`
+  - **Utils:**  `Bootstrap`
+
+- 🎡 **Ecosystem:**
+  - **Containerization:** `Docker` • `Rancher Desktop` • `GitHub Codespaces`
+  - **Version Control:** `Git` • `GitHub`
+  - **CI/CD:** `Github Actions` • `Travis CI`
+  - **Project Management:** `Jira` • `GitHub Projects` • `Trello` 
 
 ### Connect with me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IGBxRobinho) 
