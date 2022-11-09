@@ -32,12 +32,20 @@
   - **CI/CD:** `Github Actions` • `Travis CI`
   - **Project Management:** `Jira` • `GitHub Projects` • `Trello` 
 
-### Connect with me:
+### How to reach me?:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IGBxRobinho) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/robson-rodrigues-ribeiro/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/robrrodrigues/) 
 
+<br/>
+<br/>
+<br/>
 
+<p align="center">
+<a href="http://www.github.com/IGBxRobinho"><img src="https://github-readme-stats.vercel.app/api?username=IGBxRobinho&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="IGBxRobinho's GitHub stats" /></a>
+<a href="http://www.github.com/IGBxRobinho"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IGBxRobinho&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ </p>
+ 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
@@ -52,10 +60,3 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
-</br></br> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> View my stats on Github 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IGBxRobinho&show_icons=true)  
-
-![Snake animation](https://github.com/BrunoDesenv/BrunoDesenv/blob/output/github-contribution-grid-snake.svg)
