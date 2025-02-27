@@ -3,7 +3,7 @@
 ### Who I am?
 
 - I'm a graduate in Information System
-- Working as **Full Stack Developer** at **[Trademaster](https://www.trademaster.com.br/)**
+- Working as **Full Stack Developer** Freelancer
 - Open Source enthusiast.
 - I love play games, watch series / movies
 
